@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Vehicle Detection
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
@@ -32,7 +31,3 @@ Some example images for testing your pipeline on single frames are located in th
 **As an optional challenge** Once you have a working pipeline for vehicle detection, add in your lane-finding algorithm from the last project to do simultaneous lane-finding and vehicle detection!
 
 **If you're feeling ambitious** (also totally optional though), don't stop there!  We encourage you to go out and take video of your own, and show us how you would implement this project on a new video!
-||||||| merged common ancestors
-=======
-# CarND-P5-Vehicle-Detection
->>>>>>> f973a92b33fc92aa001818fe6b4f826d357c2b15
